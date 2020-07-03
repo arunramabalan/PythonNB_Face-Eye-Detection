@@ -1,4 +1,4 @@
-# PythonNB_Face-Eye-Detection
+# Python Face Eye Detection Jupyter Notebook
 
 Face Eye Detection using Python Notebook,
 
